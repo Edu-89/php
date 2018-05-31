@@ -1,7 +1,6 @@
 <?php
 
 echo "Hello <strong>world</strong>";
-echo "Teste";
-echo "Conflito";
+echo "Teste de Conflito";
 
 ?>
